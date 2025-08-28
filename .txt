@@ -1,0 +1,24 @@
+//only one nested location
+
+
+//1 st is to create the location
+//2nd warehouse tree format
+//3rd add the quantity
+//4th Deliver the quantity
+//5 th transfer the quality
+//6 th one is bounus 
+
+
+//schemas 
+
+location schema : -
+
+location code
+parent_location_code
+type - warehouse,storage
+
+
+
+//1st done
+
+//3rd 

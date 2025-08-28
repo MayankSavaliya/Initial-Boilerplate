@@ -13,9 +13,10 @@
   "license": "ISC",
   "description": "Simple Node.js boilerplate project",
   "dependencies": {
-    "express": "^4.21.2",
+    "cors": "^2.8.5",
     "dotenv": "^16.3.1",
-    "cors": "^2.8.5"
+    "express": "^4.21.2",
+    "mongoose": "^8.18.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
